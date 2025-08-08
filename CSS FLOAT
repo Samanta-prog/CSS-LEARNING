@@ -1,1 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSS OVERFLOW</title>
+  <link rel="stylesheet" href="style.css"> <!-- ঠিক করা হয়েছে -->
+</head>
+
+<body>
+  
+
+</body>
+<ul id="nav">
+<Li><a href="">HOME</a></Li>
+<Li><a href="">ABOUT</a></Li>
+<Li><a href="">SERVICE</a></Li>
+<Li><a href="">TESTIMONIAL</a></Li>
+<Li><a href="">CONTACT</a></Li>
+
+
+
+
+</ul>
+<ul id="DISPLAY">
+<Li><a href="">HOME</a></Li>
+<Li><a href="">ABOUT</a></Li>
+<Li><a href="">SERVICE</a></Li>
+<Li><a href="">TESTIMONIAL</a></Li>
+<Li><a href="">CONTACT</a></Li>
+
+
+
+
+</ul>
+<div class="parent">
+
+  <div class="div"></div>
+  <div>
+        <img src="summer-flowers-sunflower-1648478429.avif"alt=""width="100">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, quae!</p>
+
+  </div class="div">
+  <div>
+    <img src="summer-flowers-sunflower-1648478429.avif"alt=""width="100">
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, qui?</p>
+  </div>
+
+  <div class="div">
+
+    <img src="summer-flowers-sunflower-1648478429.avif"alt=""width="100">
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis voluptatum iure possimus quam ut corporis, facere unde. Quod odio ut ratione saepe explicabo nemo quisquam unde veniam laudantium quo, itaque velit nostrum cumque libero? Numquam magnam nostrum quo, voluptatibus quos expedita ratione incidunt earum, suscipit officiis eligendi, ad soluta non voluptas beatae recusandae et quis optio tempora exercitationem possimus. Corrupti nesciunt voluptatum numquam, aliquid voluptate praesentium eius. Animi similique vel labore illum voluptatem perferendis recusandae voluptatibus esse aliquid, eligendi fugit libero corrupti eius ab culpa adipisci ullam quae aliquam, eaque velit fuga odit reiciendis est? Iure sequi quod hic at.</p>
+</div>
+</div>
+
+</html>
+     
